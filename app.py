@@ -2,7 +2,7 @@ import pickle
 import flask
 from flask import Flask, request, render_template, app, url_for, jsonify
 from flask import Response
-from flask_cors import CORS
+#from flask_cors import CORS
 import numpy as np
 import pandas as pd
 
